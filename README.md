@@ -1,5 +1,21 @@
 # JavaScript: An Overview
 
+## Table of Contents
+- [Introduction](#introduction)
+- [History of JavaScript](#history-of-javascript)
+- [Execution Model](#execution-model)
+- [JavaScript Fundamentals](#javascript-fundamentals)
+  - [Statements](#statements)
+  - [Block Statements](#block-statements)
+  - [Expressions](#expressions)
+  - [Grouping Operator](#grouping-operator)
+  - [Type Coercion](#type-coercion)
+- [JavaScript Syntax](#javascript-syntax)
+  - [Case Sensitivity](#case-sensitivity)
+  - [Whitespace Insensitivity](#whitespace-insensitivity)
+
+---
+
 ## Introduction
 JavaScript is responsible for the interactive layer of a web page, complementing the structural layer provided by markup and the presentational layer provided by CSS. JavaScript allows developers to modify the structure and presentation of a page by adding, removing, and altering markup and styles in response to user interaction and internal logic.
 
@@ -75,22 +91,6 @@ JavaScript ignores the amount and type of whitespace.
 console.log("Log this"); console.log("Log this too");
 ```
 However, whitespace can be significant when used as a separator between lexical tokens.
-
----
-
-## Table of Contents
-- [Introduction](#introduction)
-- [History of JavaScript](#history-of-javascript)
-- [Execution Model](#execution-model)
-- [JavaScript Fundamentals](#javascript-fundamentals)
-  - [Statements](#statements)
-  - [Block Statements](#block-statements)
-  - [Expressions](#expressions)
-  - [Grouping Operator](#grouping-operator)
-  - [Type Coercion](#type-coercion)
-- [JavaScript Syntax](#javascript-syntax)
-  - [Case Sensitivity](#case-sensitivity)
-  - [Whitespace Insensitivity](#whitespace-insensitivity)
 
 ---
 
